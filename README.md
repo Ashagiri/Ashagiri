@@ -25,7 +25,7 @@ A PHP & MySQL web application for managing hostel details, student records, room
 
 ## 📫 Contact
 - GitHub: https://github.com/Ashagiri
-
+-LinkIn: https://www.linkedin.com/in/asha-giri-
 
 <!--
 **Ashagiri/Ashagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
