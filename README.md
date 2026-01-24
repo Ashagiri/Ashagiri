@@ -18,6 +18,9 @@
 - Become a Full Stack Developer
 - Contribute to open-source projects
 
+## 📫 Contact
+- GitHub: https://github.com/Ashagiri
+
 <!--
 **Ashagiri/Ashagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
