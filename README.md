@@ -9,6 +9,10 @@
 - HTML, CSS, JavaScript
 - Git & GitHub
 - MySQL
+
+## 📂 Projects
+- 🏨 Hostel Management System (PHP & MySQL)
+- 🎓 College Event Management System (Django)
 <!--
 **Ashagiri/Ashagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
