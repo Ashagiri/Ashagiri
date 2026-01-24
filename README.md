@@ -23,9 +23,12 @@ A PHP & MySQL web application for managing hostel details, student records, room
 - Become a Full Stack Developer
 - Contribute to open-source projects
 
+
 ## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/your-linkedin-ashagiri 
+- Email: asha.231410@ncit.edu.np 
 - GitHub: https://github.com/Ashagiri
--LinkIn: https://www.linkedin.com/in/asha-giri-
 
 <!--
 **Ashagiri/Ashagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
