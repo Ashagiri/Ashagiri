@@ -4,6 +4,11 @@
 💻 Beginner Web Developer | Django & Python Learner  
 🚀 Building real-world projects and improving coding skills.
 
+## 🛠️ Skills
+- Python, Django
+- HTML, CSS, JavaScript
+- Git & GitHub
+- MySQL
 <!--
 **Ashagiri/Ashagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
