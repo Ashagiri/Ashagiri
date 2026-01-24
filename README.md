@@ -1,4 +1,8 @@
-## Hi there 👋
+
+# 👋 Hi there, I'm Asha Giri
+
+💻 Beginner Web Developer | Django & Python Learner  
+🚀 Building real-world projects and improving coding skills.
 
 <!--
 **Ashagiri/Ashagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
