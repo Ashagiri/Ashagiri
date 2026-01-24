@@ -26,7 +26,7 @@ A PHP & MySQL web application for managing hostel details, student records, room
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/your-linkedin-asha-giri 
+
 - Email: asha.231410@ncit.edu.np 
 - GitHub: https://github.com/Ashagiri
 
