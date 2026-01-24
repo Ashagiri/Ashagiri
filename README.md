@@ -13,6 +13,11 @@
 ## 📂 Projects
 - 🏨 Hostel Management System (PHP & MySQL)
 - 🎓 College Event Management System (Django)
+
+## 🎯 Goals
+- Become a Full Stack Developer
+- Contribute to open-source projects
+
 <!--
 **Ashagiri/Ashagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
