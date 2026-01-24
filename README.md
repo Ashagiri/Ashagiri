@@ -11,8 +11,13 @@
 - MySQL
 
 ## 📂 Projects
-- 🏨 Hostel Management System (PHP & MySQL)
-- 🎓 College Event Management System (Django)
+
+✨ **Hostel Management System** –  
+
+A PHP & MySQL web application for managing hostel details, student records, rooms, and fees.  
+🔗 https://github.com/Ashagiri/Hostel-Management-System
+
+
 
 ## 🎯 Goals
 - Become a Full Stack Developer
@@ -20,6 +25,7 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/Ashagiri
+
 
 <!--
 **Ashagiri/Ashagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
