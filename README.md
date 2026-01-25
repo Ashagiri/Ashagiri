@@ -10,6 +10,13 @@
 - Git & GitHub
 - MySQL
 
+# Tools & Technologies:
+- Git & GitHub
+
+- VS Code
+
+- Postman
+
 ## 📂 Projects
 
 ✨ **Hostel Management System** –  
