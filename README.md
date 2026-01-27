@@ -4,6 +4,8 @@
 💻 Beginner Web Developer | Django & Python Learner  
 🚀 Building real-world projects and improving coding skills.
 
+![Asha's Stats Radar](https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical)
+
 ## 🛠️ Skills
 - Python, Django
 - HTML, CSS, JavaScript
@@ -38,6 +40,8 @@ A PHP & MySQL web application for managing hostel details, student records, room
 
 - Email: asha.231410@ncit.edu.np 
 - GitHub: https://github.com/Ashagiri
+
+
 
 <!--
 **Ashagiri/Ashagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
