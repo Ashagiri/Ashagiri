@@ -1,6 +1,7 @@
 
 # 👋 Hi, I'm Asha Giri
-## 🎓 IT Engineering Student | 💻 Full-Stack Developer
+
+## 🎓IT Engineering Student & 💻 Full-Stack Developer specializing in Python/Django. Building scalable management systems and exploring open-source."
 💻 Beginner Web Developer | Django & Python Learner  
 🚀 Building real-world projects and improving coding skills.
 
