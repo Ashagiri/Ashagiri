@@ -26,6 +26,11 @@
 ### 🧰 Backend & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" />
+</p>
+
+### 📊 Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
 
 # Tools & Technologies:
 - Git & GitHub
