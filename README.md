@@ -4,6 +4,11 @@
  ## 🎓IT Engineering Student & 💻 Full-Stack Developer specializing in Python/Django. Building scalable management systems and exploring open-source.
 ## 🚀 Building real-world projects and improving coding skills.
 
+<p align="center">
+  <a href="https://github.com/Ashagiri">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=tokyonight" alt="Asha’s GitHub Stats" />
+  </a>
+</p>
 
 ## 🛠️ Skills
 ### 🧠 Languages & Frameworks
