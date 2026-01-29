@@ -23,6 +23,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
+### 🧰 Backend & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+
 # Tools & Technologies:
 - Git & GitHub
 
