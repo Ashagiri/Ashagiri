@@ -51,6 +51,9 @@ A web application built with **PHP & MySQL** for managing hostel details, studen
 A system to plan and handle college events using modern web technologies.
 
 ## 📫 Connect With Me
+<p>
+  <a href="https://github.com/Ashagiri" target="_blank">
+</p>
 
 
 ## 🎯 Goals
