@@ -57,10 +57,7 @@ A web platform to plan, manage, and track college events — built using web tec
   </a>
 </p>
 
-### 📈 GitHub Performance
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashagiri&layout=compact&theme=tokyonight" />
-</p>
+
 
 ## 📈 GitHub Stats
 
