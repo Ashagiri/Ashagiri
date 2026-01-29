@@ -59,9 +59,8 @@ A system to plan and handle college events using modern web technologies.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+  ![Asha's Stats Radar](https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical)
+
 
 
 <!--
