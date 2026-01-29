@@ -39,7 +39,10 @@ A dynamic web application to manage hostel student info, rooms, and fees using *
 👉 https://github.com/Ashagiri/Hostel-Management-System
 
 ### 🎓 **College Event Management System**
-A system to plan and handle college events using modern web technologies.
+A web platform to plan, manage, and track college events — built using web technologies.
+
+---
+
 
 ## 📫 Connect With Me
 <p>
