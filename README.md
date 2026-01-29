@@ -7,7 +7,10 @@
 
   ![Asha's Stats Radar](https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical)
 
+## 🚀 About Me
+I'm an enthusiastic and self-motivated Full Stack Developer with a strong foundation in **Python, Django, web development, and database systems**. I love building real-world applications, solving problems, and continuously learning new technologies.
 
+---
 
 ## 🛠️ Skills
 ### 🧠 Languages & Frameworks
