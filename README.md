@@ -63,12 +63,6 @@ A system to plan and handle college events using modern web technologies.
 - Contribute to open-source projects
 
 
-## 📫 Contact
-
-
-- Email: asha.231410@ncit.edu.np 
-- GitHub: https://github.com/Ashagiri
-
 
 
 <!--
