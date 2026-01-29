@@ -44,7 +44,7 @@
 
 ✨ **Hostel Management System** –  
 
-A PHP & MySQL web application for managing hostel details, student records, rooms, and fees.  
+A web application built with **PHP & MySQL** for managing hostel details, student records, rooms, and fees.  
 🔗 https://github.com/Ashagiri/Hostel-Management-System
 
 ✨ **College Event Management System** 
