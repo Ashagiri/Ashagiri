@@ -32,13 +32,11 @@ I'm an enthusiastic and self-motivated Full Stack Developer with a strong founda
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
   
 
+## 📂 Featured Projects
 
-## 📂 Projects
-
-### ✨ **Hostel Management System** –  
-
-A web application built with **PHP & MySQL** for managing hostel details, student records, rooms, and fees.  
-🔗 https://github.com/Ashagiri/Hostel-Management-System
+### 🏨 **Hostel Management System**
+A dynamic web application to manage hostel student info, rooms, and fees using **PHP & MySQL**.  
+👉 https://github.com/Ashagiri/Hostel-Management-System
 
 ### 🎓 **College Event Management System**
 A system to plan and handle college events using modern web technologies.
