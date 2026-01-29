@@ -25,7 +25,7 @@
 
 ### 🧰 Backend & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" />
 
 # Tools & Technologies:
 - Git & GitHub
