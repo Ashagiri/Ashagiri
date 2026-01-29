@@ -68,6 +68,12 @@ A web platform to plan, manage, and track college events — built using web tec
 ![Asha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=radical)
 
 
+
+💡 *Thanks for checking out my profile! I'm always open to collaboration and learning new things.*
+
+---
+
+
 <!--
 **Ashagiri/Ashagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
