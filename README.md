@@ -5,9 +5,8 @@
 ## 🚀 Building real-world projects and improving coding skills.
 
 <p align="center">
-  <a href="https://github.com/Ashagiri">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=tokyonight" alt="Asha’s GitHub Stats" />
-  </a>
+  ![Asha's Stats Radar](https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical)
+
 </p>
 
 ## 🛠️ Skills
