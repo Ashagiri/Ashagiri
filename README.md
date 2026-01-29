@@ -63,12 +63,11 @@ A system to plan and handle college events using modern web technologies.
   </a>
 </p>
 
+## 📈 GitHub Stats
 
-## 🎯 Goals
-- Become a Full Stack Developer
-- Contribute to open-source projects
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 
 <!--
