@@ -53,6 +53,8 @@ A system to plan and handle college events using modern web technologies.
 ## 📫 Connect With Me
 <p>
   <a href="https://github.com/Ashagiri" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 
