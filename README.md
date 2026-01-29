@@ -47,7 +47,9 @@
 A web application built with **PHP & MySQL** for managing hostel details, student records, rooms, and fees.  
 🔗 https://github.com/Ashagiri/Hostel-Management-System
 
-✨ **College Event Management System** 
+### 🎓 **College Event Management System**
+A system to plan and handle college events using modern web technologies.
+
 
 
 
