@@ -61,6 +61,8 @@ A system to plan and handle college events using modern web technologies.
 
   ![Asha's Stats Radar](https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical)
 
+  ![Asha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=radical)
+
 
 
 <!--
