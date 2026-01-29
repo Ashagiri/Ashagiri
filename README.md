@@ -33,12 +33,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
   
 
-# Tools & Technologies:
-- Git & GitHub
-
-- VS Code
-
-- Postman
 
 ## 📂 Projects
 
