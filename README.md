@@ -4,6 +4,7 @@
  ## 🎓IT Engineering Student & 💻 Full-Stack Developer specializing in Python/Django. Building scalable management systems and exploring open-source.
 ## 🚀 Building real-world projects and improving coding skills.
 
+![Asha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=radical)  
 
 
 
@@ -60,7 +61,6 @@ A web platform to plan, manage, and track college events — built using web tec
 
 
 ## 📈 GitHub Stats
-![Asha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=radical)  
 
   ![Asha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=radical)
 
