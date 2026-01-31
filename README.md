@@ -9,6 +9,10 @@
 ## 🚀 About Me
 I'm an enthusiastic and self-motivated Full Stack Developer with a strong foundation in **Python, Django, Web development, and database systems**. I love building real-world applications, solving problems, and continuously learning new technologies.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&theme=radical" height="170" />
+</div>
 
 ## 🛠️ Technical Skills
 
