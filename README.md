@@ -66,7 +66,7 @@ A web platform to plan, manage, and track college events — built using web tec
 
  ![Asha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=radical)
 
-  ![Asha's Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashagiri&theme=radical)
+ ![Asha's Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashagiri&theme=radical)
 
 ![Asha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=radical)
 
