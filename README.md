@@ -22,6 +22,7 @@ I'm an enthusiastic and self-motivated Full Stack Developer with a strong founda
 </p>
 
 ### 🧰 Backend & DevOps
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
