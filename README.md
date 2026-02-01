@@ -2,6 +2,7 @@
 # 👋 Hi, I'm Asha Giri
 
  ## 🎓IT Engineering Student & 💻 Full-Stack Developer specializing in Python/Django. Building scalable management systems and exploring open-source.
+ 
 ## 🚀 Building real-world projects and improving coding skills.
 
 ![Asha's Stats Radar](https://github-readme-stats-eight-theta.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical)
