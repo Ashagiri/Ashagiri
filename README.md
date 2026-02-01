@@ -58,6 +58,7 @@ A web platform to plan, manage, and track college events — built using web tec
   <a href="mailto:asha231410@ncitt.edu.np" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
+ 
 </p>
 
 
