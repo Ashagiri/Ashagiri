@@ -34,6 +34,7 @@ I'm an enthusiastic and self-motivated Full Stack Developer with a strong founda
 ## 📂 Featured Projects
 
 ### 🏨 **Hostel Management System**
+
 A dynamic web application to manage hostel student info, rooms, and fees using **PHP & MySQL**.  
 👉 https://github.com/Ashagiri/Hostel-Management-System
 
