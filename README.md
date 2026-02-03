@@ -70,7 +70,6 @@ A web platform to plan, manage, and track college events — built using web tec
 
 ## 📈 GitHub Stats
 
- 
 
 ![Asha's Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashagiri&theme=radical)
 
