@@ -50,7 +50,6 @@ A web platform to plan, manage, and track college events — built using web tec
 
 ---
 
-
 ## 📫 Connect With Me
 <p>
 
