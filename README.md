@@ -47,7 +47,6 @@ A dynamic web application to manage hostel student info, rooms, and fees using *
 A web platform to plan, manage, and track college events — built using web technologies.
 
 ---
-
 ## 📫 Connect With Me
 <p>
 
