@@ -57,7 +57,7 @@ A web platform to plan, manage, and track college events — built using web tec
 <p>
 
 
-  </a>
+  
   <a href="https://www.linkedin.com/in/asha-giri-b081273a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
