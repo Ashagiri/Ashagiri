@@ -73,7 +73,6 @@ A web platform to plan, manage, and track college events — built using web tec
 
 
 
-
 💡 *Thanks for checking out my profile! I'm always open to collaboration and learning new things.*
 
 
