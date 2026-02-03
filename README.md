@@ -32,8 +32,7 @@ I'm an enthusiastic and self-motivated Full Stack Developer with a strong founda
 ### 📊 Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-  
-
+</p>
 
 ## 📂 Featured Projects
 
