@@ -23,7 +23,16 @@ I am an enthusiastic and self-motivated Full Stack Developer. I love turning com
 
 ![Asha's Stats Radar](https://github-readme-stats-eight-theta.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical)
 
+## 🛠️ Technical Toolkit
 
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, JavaScript (ES6+), PHP, HTML5, CSS3 |
+| **Frameworks** | Django, Bootstrap, Tailwind CSS |
+| **Databases** | MySQL, PostgreSQL |
+| **DevOps/Tools** | AWS, Git, Postman |
+
+---
 
 ## 📂 Featured Projects
 
