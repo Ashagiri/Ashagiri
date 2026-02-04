@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-## 🚀 Building real-world projects and improving coding skills.
 
 ![Asha's Stats Radar](https://github-readme-stats-eight-theta.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical)
 
