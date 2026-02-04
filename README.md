@@ -48,11 +48,10 @@ A web platform to plan, manage, and track college events — built using web tec
 ---
 
 
-
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical" alt="Asha's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=radical" alt="Top Langs" width="48%" />
 </p>
 
 ## 📫 Connect with Me
