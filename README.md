@@ -25,31 +25,6 @@ I am an enthusiastic and self-motivated Full Stack Developer. I love turning com
 
 
 
-## 🛠️ Technical Skills
-
-### 💻 Languages & Frameworks
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
- 
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-  
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-</p>
-
-### 🧰 Backend & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" />
-</p>
-
-### 📊 Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
 ## 📂 Featured Projects
 
 ### 🏨 **Hostel Management System**
