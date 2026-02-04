@@ -9,6 +9,17 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
+---
+
+## 🚀 About Me
+I am an enthusiastic and self-motivated Full Stack Developer. I love turning complex problems into simple, beautiful, and scalable solutions. Currently, I am deep-diving into **Django Rest Framework** and exploring the world of **Cloud Computing**.
+
+- 🔭 **I’m currently working on:** Scalable Management Systems
+- 🌱 **I’m currently learning:** Advanced AWS Architectures & React.js
+- 👯 **I’m looking to collaborate on:** Open Source Python/Django projects
+- ⚡ **Fun fact:** I spend more time naming variables than writing the actual logic!
+
+---
 
 ![Asha's Stats Radar](https://github-readme-stats-eight-theta.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical)
 
