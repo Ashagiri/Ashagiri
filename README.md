@@ -49,8 +49,9 @@ A web platform to plan, manage, and track college events — built using web tec
 
 
 ## 📊 My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&theme=radical)](https://git.io/streak-stats)
+[![Asha's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ashagiri?theme=radical)](https://github.com/brunobritodev/awesome-github-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&theme=radical)](https://git.io/streak-stats)
 
 ## 📫 Connect with Me
 <p align="left">
