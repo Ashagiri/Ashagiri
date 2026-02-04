@@ -34,19 +34,16 @@ I am an enthusiastic and self-motivated Full Stack Developer. I love turning com
 
 ---
 
----
-
 ## 📂 Featured Projects
 
-### 🏨 [Hostel Management System](https://github.com/Ashagiri/Hostel-Management-System)
-> A dynamic web application to manage hostel student info, room allocation, and fee tracking.
-- **Tech:** PHP, MySQL, JavaScript
-- **Key Feature:** Automated invoice generation and real-time room availability.
+### 🏨 **Hostel Management System**
 
-### 🎓 College Event Management System
-> A centralized platform for planning and tracking campus events.
-- **Tech:** Python, Django, SQLite
-- **Key Feature:** User registration and event scheduling with email notifications.
+A dynamic web application to manage hostel student info, rooms, and fees using **PHP & MySQL**.  
+👉 https://github.com/Ashagiri/Hostel-Management-System
+
+### 🎓 **College Event Management System**
+
+A web platform to plan, manage, and track college events — built using web technologies.
 
 ---
 ## 📫 Connect With Me
@@ -63,11 +60,14 @@ I am an enthusiastic and self-motivated Full Stack Developer. I love turning com
 </p>
 
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical" alt="Asha's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=radical" alt="Top Langs" width="48%" />
-</p>
+
+## 📈 GitHub Stats
+
+
+![Asha's Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashagiri&theme=radical)
+
+![Asha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=radical)
+
 
 
 💡 *Thanks for checking out my profile! I'm always open to collaboration and learning new things.*
