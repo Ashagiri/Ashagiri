@@ -45,7 +45,11 @@ I am an enthusiastic and self-motivated Full Stack Developer. I love turning com
 
 ---
 
-
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical" alt="Asha's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+</p>
 ---
 
 ## 📫 Connect with Me
