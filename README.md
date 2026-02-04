@@ -23,8 +23,7 @@ I am an enthusiastic and self-motivated Full Stack Developer. I love turning com
 
 ![Asha's Stats Radar](https://github-readme-stats-eight-theta.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical)
 
-## 🚀 About Me
-I'm an enthusiastic and self-motivated Full Stack Developer with a strong foundation in **Python, Django, Web development, and database systems**. I love building real-world applications, solving problems, and continuously learning new technologies.
+
 
 ## 🛠️ Technical Skills
 
