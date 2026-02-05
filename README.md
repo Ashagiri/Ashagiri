@@ -54,7 +54,9 @@ A web platform to plan, manage, and track college events — built using web tec
 
 ![Asha Giri's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=tokyonight&area=true)
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📫 Connect with Me
 <p align="left">
