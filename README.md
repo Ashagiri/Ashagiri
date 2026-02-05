@@ -49,10 +49,11 @@ A web platform to plan, manage, and track college events — built using web tec
 
 
 ## 📊 My GitHub Stats
-## Contribution Graph:
 
-![Asha Giri's Contribution Graph](https://github-contribution-graph.vercel.app/api?username=Ashagiri&theme=tokyonight)
 
+### Contribution Graph:
+
+![Asha Giri's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=tokyonight)
 
 ## 📫 Connect with Me
 <p align="left">
