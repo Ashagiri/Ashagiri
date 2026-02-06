@@ -20,7 +20,7 @@ I am an enthusiastic and self-motivated Full Stack Developer. I love turning com
 - 👯 **I’m looking to collaborate on:** Open Source Python/Django projects
 - ⚡ **Fun fact:** I spend more time naming variables than writing the actual logic!
 
----
+
 
 
 ![Asha's Stats Radar](https://github-readme-stats-eight-theta.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical)
