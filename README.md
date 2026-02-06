@@ -43,6 +43,7 @@ I am an enthusiastic and self-motivated Full Stack Developer. I love turning com
 A dynamic web application to manage hostel student info, rooms, and fees using **PHP & MySQL**.  
 👉 https://github.com/Ashagiri/Hostel-Management-System
 
+
 ### 🎓 **College Event Management System**
 
 A web platform to plan, manage, and track college events — built using web technologies.
