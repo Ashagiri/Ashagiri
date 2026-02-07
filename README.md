@@ -11,12 +11,12 @@
 ## 💫 About Me
 I’m a self-motivated Full Stack Developer who lives for the "Aha!" moment when a complex problem turns into a scalable solution. Currently, I'm bridging the gap between robust **Django Rest Framework** backends and dynamic **React** frontends, all while exploring the infinite scale of **Cloud Computing**.
 
-* 🔭 **Currently working on:** Next-gen Scalable Management Systems.-
-* 🌱 **I’m currently learning:** Advanced AWS Architectures & React.js
+* 🔭 **Currently working on:** Next-gen Scalable Management Systems.
 * ⚡ **Learning Path:** Advanced AWS Architectures & React.js hooks.
-* - ⚡ **Fun fact:** I spend more time naming variables than writing the actual logic!
+* 🤝 **Open to:** Collaboration on Open Source Python/Django projects.
+* 🧠 **Fun Fact:** I spend more time naming variables than writing the actual logic!
 
-
+---
 
 
 
