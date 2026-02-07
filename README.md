@@ -17,9 +17,6 @@ I am an **IT Engineering Student** and **Full-Stack Developer** who thrives at t
 * 🔭 **Current Focus:** Scaling management systems and mastering AWS architectures.
 * ⚡ **Fun Fact:** I spend more time naming variables than writing the actual logic!
 
-
-
-
 ---
 
 
