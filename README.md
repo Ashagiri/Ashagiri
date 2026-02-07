@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-> "I don’t just write code; I build solutions that make life easier."
+"I don’t just write code; I build solutions that make life easier."
 
 I am an **IT Engineering Student** and **Full-Stack Developer** who thrives at the intersection of logic and creativity. Whether I’m architecting a robust backend with **Django** or crafting a seamless user experience with **React**, my goal is always the same: turning complex problems into scalable, beautiful applications.
 
