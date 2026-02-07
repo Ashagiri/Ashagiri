@@ -65,7 +65,13 @@ I am an **IT Engineering Student** and **Full-Stack Developer** who thrives at t
 
 ![Asha Giri's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=tokyonight&area=true)
 
+### 🌐 Connect with Me
 
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ashagiri LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Ashagiri Gmail" /></a>
+<a href="https://instagram.com/YOUR_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ashagiri Instagram" /></a>
+</p>
 
 
 💡 *Thanks for checking out my profile! I'm always open to collaboration and learning new things.*
