@@ -2,6 +2,10 @@
 
 
 ### IT Engineering Student | Full-Stack Developer | Python Enthusiast
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Deep%20Diving%20into%20AWS%20%26%20React-blueviolet?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-0078D4?style=for-the-badge&logo=python" />
+</p>
 
 
 <p align="left">
