@@ -7,6 +7,15 @@
   <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-0078D4?style=for-the-badge&logo=python" />
 </p>
 
+## 🚀 About Me
+
+> "I don’t just write code; I build solutions that make life easier."
+
+I am an **IT Engineering Student** and **Full-Stack Developer** who thrives at the intersection of logic and creativity. Whether I’m architecting a robust backend with **Django** or crafting a seamless user experience with **React**, my goal is always the same: turning complex problems into scalable, beautiful applications.
+
+* 💡 **Philosophy:** Code is poetry that solves problems.
+* 🔭 **Current Focus:** Scaling management systems and mastering AWS architectures.
+* ⚡ **Fun Fact:** I spend more time naming variables than writing the actual logic!
 
 
 
