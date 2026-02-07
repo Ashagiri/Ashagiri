@@ -16,6 +16,7 @@ I’m a self-motivated Full Stack Developer who lives for the "Aha!" moment when
 * 🤝 **Open to:** Collaboration on Open Source Python/Django projects.
 * 🧠 **Fun Fact:** I spend more time naming variables than writing the actual logic!
 
+
 ---
 
 ## 🛠 Technical Toolkit
