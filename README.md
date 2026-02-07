@@ -29,6 +29,14 @@ I’m a self-motivated Full Stack Developer who lives for the "Aha!" moment when
 ---
 
 
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&theme=radical&hide_border=true" />
+</p>
+
+---
 ![Asha's Stats Radar](https://github-readme-stats-eight-theta.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical)
 
 
