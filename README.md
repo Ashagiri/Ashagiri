@@ -46,11 +46,11 @@ I’m a self-motivated Full Stack Developer who lives for the "Aha!" moment when
 ## 📁 Featured Projects
 
 ### 🏨 [Hostel Management System](https://github.com/Ashagiri/Hostel-Management-System)
-> *A dynamic PHP/MySQL web application to modernize hostel operations.*
+> A dynamic PHP/MySQL web application to modernize hostel operations.
 * **Impact:** Streamlined student registration and fee tracking in one centralized hub.
 
 ### 🎓 [College Event Management System](https://github.com/Ashagiri/College-Event-Management-System)
-> *A robust Django-based platform for campus-wide event coordination.*
+> A robust Django-based platform for campus-wide event coordination.
 * **Impact:** Automated registration workflows and real-time scheduling.
 
 ---
