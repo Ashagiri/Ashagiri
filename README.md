@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Asha Giri ♊
 ### IT Engineering Student | Full-Stack Developer | Python Enthusiast
 
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-369%20Commits%20In%202026-ff69b4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-44bb44?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Focus-AWS%20%26%20React-0078D4?style=for-the-badge&logo=react" />
 </p>
 
