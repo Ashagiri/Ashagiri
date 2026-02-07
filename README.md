@@ -7,11 +7,6 @@
   <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-0078D4?style=for-the-badge&logo=python" />
 </p>
 
->
-
-
-
-
 
 ## 💫 About Me
 I’m a self-motivated Full Stack Developer who lives for the "Aha!" moment when a complex problem turns into a scalable solution. Currently, I'm bridging the gap between robust **Django Rest Framework** backends and dynamic **React** frontends, all while exploring the infinite scale of **Cloud Computing**.
