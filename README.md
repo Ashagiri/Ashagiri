@@ -22,7 +22,8 @@ I am an enthusiastic and self-motivated **Full Stack Developer**. I thrive at th
 
 
 ## 📊 My GitHub Stats
-
+### 📊 Activity Graph:
+[![Asha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=react-dark&area=true&hide_border=true)](https://github.com/ashagiri)
 
 ---
 
