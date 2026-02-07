@@ -17,6 +17,7 @@ I’m a self-motivated Full Stack Developer who lives for the "Aha!" moment when
 * 🧠 **Fun Fact:** I spend more time naming variables than writing the actual logic!
 
 ---
+
 ## 🛠 Technical Toolkit
 
 | Category | Skills & Tools |
