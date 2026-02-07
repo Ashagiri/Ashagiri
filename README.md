@@ -26,6 +26,10 @@ I am an enthusiastic and self-motivated **Full Stack Developer**. I thrive at th
 ### 📊 Activity Graph:
 [![Asha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=lush&area=true&hide_border=true)](https://github.com/Ashagiri)
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=nord&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&theme=nord&hide_border=true" />
+</p>
 ---
 
 ## 🛠️ Technical Toolkit
