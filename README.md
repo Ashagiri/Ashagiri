@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Asha Giri 
-<p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Asha Giri Banner" width="100%">
-</p>
 ### IT Engineering Student | Full-Stack Developer | Python Enthusiast ♊
 
 <p align="left">
