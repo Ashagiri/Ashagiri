@@ -71,7 +71,7 @@ I’m a self-motivated Full Stack Developer who lives for the "Aha!" moment when
 </p>
 
 💡 *Thanks for checking out my profile! I'm always open to collaboration and learning new things.*
-<p align="center">
+<p align="left-center">
   <i>"Debugging my life one Python script at a time."</i>
 </p>
 
