@@ -19,8 +19,8 @@
 
 
 
-## 🚀 About Me
-I am an enthusiastic and self-motivated Full Stack Developer. I love turning complex problems into simple, beautiful, and scalable solutions. Currently, I am deep-diving into **Django Rest Framework** and exploring the world of **Cloud Computing**.
+## 💫 About Me
+I’m a self-motivated Full Stack Developer who lives for the "Aha!" moment when a complex problem turns into a scalable solution. Currently, I'm bridging the gap between robust **Django Rest Framework** backends and dynamic **React** frontends, all while exploring the infinite scale of **Cloud Computing**.
 
 - 🔭 **I’m currently working on:** Scalable Management Systems
 - 🌱 **I’m currently learning:** Advanced AWS Architectures & React.js
