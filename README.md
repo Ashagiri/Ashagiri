@@ -1,5 +1,5 @@
 # 👋 Hello there! I'm Asha Giri  
-## 🌟 *IT Engineering Student | Full-Stack Developer | Python Enthusiast*  
+###  🌟 *IT Engineering Student | Full-Stack Developer | Python Enthusiast*  
 ### ♊ Gemini | Passionate about building elegant, scalable solutions with code
 
 <p align="left">
