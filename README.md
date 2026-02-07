@@ -72,6 +72,7 @@ A web platform to plan, manage, and track college events — built using web tec
 
 
 
+
 <!--
 **Ashagiri/Ashagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
