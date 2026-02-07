@@ -8,6 +8,10 @@
 </p>
 
 
+<p align="center">
+  <!-- You can add your activity graph below -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=nightowl&area=true&hide_border=true" alt="Asha's Activity Graph" />
+</p>
 ---
 
 ## 🚀 About Me
