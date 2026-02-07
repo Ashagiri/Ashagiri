@@ -21,7 +21,7 @@ I’m an enthusiastic Full-Stack Developer and IT engineering student who loves 
 
 "
 
-I am an enthusiastic and self-motivated **Full Stack Developer**. I thrive at the intersection of logic and creativity—whether I’m architecting a robust backend with **Django** or crafting a seamless user experience with **React**, my goal is turning complex problems into scalable, beautiful applications.
+
 
 * 🔭 **Currently working on:** [Rojgar-nepal](https://github.com/Ashagiri/rojgar-nepal) & Scalable Management Systems.
 * ⚡ **Learning Path:** Advanced AWS Architectures & React.js Hooks.
