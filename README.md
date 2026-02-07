@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Asha Giri 
+# 👋 Hi, I'm Asha Giri <img src="https://media.giphy.com/media/hvRJCLzPrTCf6/giphy.gif" width="30px">
 ### IT Engineering Student | Full-Stack Developer | Python Enthusiast ♊
 
 <p align="left">
