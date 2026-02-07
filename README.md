@@ -34,7 +34,7 @@ I’m an enthusiastic Full-Stack Developer and IT engineering student who loves 
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=nord&hide_border=true" />
+  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&theme=nord&hide_border=true" />
 </p>
 
