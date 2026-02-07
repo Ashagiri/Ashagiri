@@ -22,10 +22,7 @@ I am an enthusiastic and self-motivated **Full Stack Developer**. I thrive at th
 
 
 ## 📊 My GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&theme=radical&hide_border=true" />
-</p>
+
 
 ---
 
