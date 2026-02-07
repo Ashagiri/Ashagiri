@@ -14,8 +14,12 @@
 </p>
 ---
 
-## 🚀 About Me
-> "I don’t just write code; I build solutions that make life easier."
+💡 **About Me**  
+> _"I don’t just write code; I craft clean, efficient solutions that solve real problems."_  
+
+I’m an enthusiastic Full-Stack Developer and IT engineering student who loves blending logic with creativity. Whether I’m building a reliable API with **Django** or designing intuitive UI with **React**, my mission is to turn complexity into simplicity—one project at a time.
+
+"
 
 I am an enthusiastic and self-motivated **Full Stack Developer**. I thrive at the intersection of logic and creativity—whether I’m architecting a robust backend with **Django** or crafting a seamless user experience with **React**, my goal is turning complex problems into scalable, beautiful applications.
 
