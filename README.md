@@ -2,6 +2,7 @@
 ###  🌟 *IT Engineering Student | Full-Stack Developer | Python Enthusiast*  
 ### ♊ Gemini | Passionate about building elegant, scalable solutions with code
 
+
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Actively%20Building-44bb44?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Focus-AWS%20%26%20React-0078D4?style=for-the-badge&logo=react" />
