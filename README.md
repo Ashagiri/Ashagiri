@@ -40,8 +40,6 @@ I’m an enthusiastic Full-Stack Developer and IT engineering student who loves 
 
 
 
-
-
 ---
 
 
