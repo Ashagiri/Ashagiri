@@ -49,7 +49,7 @@ I’m an enthusiastic **Full-Stack Developer** and IT engineering student who lo
 | **Cloud/Tools**| AWS, Git, Postman, PostgreSQL, MySQL |
 
 ---
-### 📊 My GitHub Statistics
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&theme=tokyonight" alt="Asha's Streak" />
