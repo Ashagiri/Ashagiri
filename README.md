@@ -57,6 +57,10 @@ I’m an enthusiastic Full-Stack Developer and IT engineering student who loves 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=tokyonight&hide=powershell" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;IT+Engineering+Student;Django+%26+React+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+</p>
+
 ### 🌐 Connect with Me
 
 <p align="left">
