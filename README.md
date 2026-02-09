@@ -24,7 +24,7 @@
 # 💡 **About Me**  
 > _"I don’t just write code; I craft clean, efficient solutions that solve real problems."_  
 
-I’m an enthusiastic Full-Stack Developer and IT engineering student who loves blending logic with creativity. Whether I’m building a reliable API with **Django** or designing intuitive UI with **React**, my mission is to turn complexity into simplicity—one project at a time.
+I’m an enthusiastic **Full-Stack Developer** and IT engineering student who loves blending logic with creativity. Whether I’m building a reliable API with **Django** or designing intuitive UI with **React**, my mission is to turn complexity into simplicity—one project at a time.
 
 
 
