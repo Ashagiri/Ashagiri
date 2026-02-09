@@ -57,15 +57,12 @@ I’m an enthusiastic **Full-Stack Developer** and IT engineering student who lo
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashagiri&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ashagiri&show_icons=true&theme=tokyonight" />
 </p>
 
-
-
-<img src="https://gitmystat.vercel.app/api/top-langs?username=Ashagiri&theme=tokyonight" />
-
-
----
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ashagiri&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
 
 ---
 
