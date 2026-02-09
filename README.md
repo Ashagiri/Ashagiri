@@ -49,6 +49,12 @@ I’m an enthusiastic Full-Stack Developer and IT engineering student who loves 
 | **Cloud/Tools**| AWS, Git, Postman, PostgreSQL, MySQL |
 
 ---
+### 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=tokyonight&count_private=true" alt="Ashish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=tokyonight&hide=powershell" alt="Top Languages" />
+</p> 
 
 ### 🌐 Connect with Me
 
