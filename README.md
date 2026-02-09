@@ -56,4 +56,21 @@ I’m an enthusiastic Full-Stack Developer and IT engineering student who loves 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=tokyonight&hide=powershell" alt="Top Languages" />
 </p> 
 
->
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:asha.231410@ncit.edu.np">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashagiri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br>
+  <i>"Debugging my life one Python script at a time."</i>
+</p>
