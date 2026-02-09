@@ -17,9 +17,6 @@
   <!-- You can add your activity graph below -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=nightowl&area=true&hide_border=true" alt="Asha's Activity Graph" />
 </p>
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&theme=nord&hide_border=true" />
-</p>
 
 # 💡 **About Me**  
 > _"I don’t just write code; I craft clean, efficient solutions that solve real problems."_  
