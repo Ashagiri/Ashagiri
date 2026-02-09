@@ -88,8 +88,3 @@ I’m an enthusiastic **Full-Stack Developer** and IT engineering student who lo
 </p>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashagiri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br>
-  <i>"Debugging my life one Python script at a time."</i>
-</p>
