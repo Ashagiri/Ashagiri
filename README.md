@@ -86,5 +86,3 @@ I’m an enthusiastic **Full-Stack Developer** and IT engineering student who lo
   <br/>
   <i>"Debugging my life one Python script at a time."</i>
 </p>
-
----
