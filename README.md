@@ -62,9 +62,8 @@ I’m an enthusiastic **Full-Stack Developer** and IT engineering student who lo
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashagiri&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
+<img src="https://your-instance.vercel.app/api/top-langs?username=Ashagiri&layout=compact&theme=tokyonight&count_private=true" />
+
 
 ---
 
