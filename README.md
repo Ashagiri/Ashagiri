@@ -52,18 +52,21 @@ I’m an enthusiastic **Full-Stack Developer** and IT engineering student who lo
 | **Cloud/Tools**| AWS, Git, Postman, PostgreSQL, MySQL |
 
 ---
-
 ### 📊 My GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=tokyonight&count_private=true" alt="Asha's GitHub Stats" />
-  <br/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&theme=tokyonight" alt="Asha's Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
-
-
 
 ### 🌐 Connect with Me
 
@@ -74,6 +77,14 @@ I’m an enthusiastic **Full-Stack Developer** and IT engineering student who lo
   <a href="mailto:asha.231410@ncit.edu.np">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashagiri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br/>
+  <i>"Debugging my life one Python script at a time."</i>
 </p>
 
 ---
