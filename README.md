@@ -62,7 +62,7 @@ I’m an enthusiastic **Full-Stack Developer** and IT engineering student who lo
 
 
 
-<img src="https://your-instance.vercel.app/api/top-langs?username=Ashagiri&layout=compact&theme=tokyonight&count_private=true" />
+<img src="https://gitmystat.vercel.app/api/top-langs?username=Ashagiri&theme=tokyonight" />
 
 
 ---
