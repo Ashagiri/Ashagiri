@@ -61,8 +61,6 @@ I’m an enthusiastic **Full-Stack Developer** and IT engineering student who lo
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&theme=tokyonight" />
