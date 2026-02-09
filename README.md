@@ -5,8 +5,6 @@
 </p>
 
 
-### ♊ Gemini | Passionate about building elegant, scalable solutions with code
-
 
 
 <p align="left">
