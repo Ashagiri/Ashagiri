@@ -26,6 +26,18 @@
 ---
 
 
+## 💻 Tech Stack
+**Languages:**  
+🔹 Python • JavaScript • HTML • CSS • SQL  
+
+**Frameworks & Tools:**  
+🔸 Django • React • AWS • Git & GitHub • REST APIs  
+
+**Databases:**  
+🟩 MySQL • PostgreSQL • SQLite  
+
+---
+
 ### 🛠 Technical Toolkit
 
 | Category | Skills & Tools |
