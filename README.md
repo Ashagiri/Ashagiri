@@ -4,11 +4,7 @@
   <img src="https://img.shields.io/badge/Status-Actively%20Building-44bb44?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Focus-AWS%20%26%20React-0078D4?style=for-the-badge&logo=react" />
   
-<p align="center">
-  <!-- You can add your activity graph below -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=nightowl&area=true&hide_border=true" alt="Asha's Activity Graph" />
-</p>
----
+
 
 ## 🧠 About Me
 </p>
@@ -17,6 +13,12 @@
 </p>
 
 ![github](https://github.com/user-attachments/assets/b0171857-99e7-4f57-a1d0-5a04e0c4f13a)
+
+<p align="center">
+  <!-- You can add your activity graph below -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=nightowl&area=true&hide_border=true" alt="Asha's Activity Graph" />
+</p>
+---
 
 💡 I craft logical and user-friendly solutions with Python, Django, and React.  
 📌 Currently working on management systems & real-world projects.  
