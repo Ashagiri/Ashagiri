@@ -1,4 +1,5 @@
 # 👋 Hello there! I'm Asha Giri ♊
+---
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Actively%20Building-44bb44?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Focus-AWS%20%26%20React-0078D4?style=for-the-badge&logo=react" />
@@ -7,6 +8,7 @@
   <!-- You can add your activity graph below -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=nightowl&area=true&hide_border=true" alt="Asha's Activity Graph" />
 </p>
+---
 
 ## 🧠 About Me
 </p>
