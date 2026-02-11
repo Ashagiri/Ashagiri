@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Focus-AWS%20%26%20React-0078D4?style=for-the-badge&logo=react" />
   
 </p>
+
 ![github](https://github.com/user-attachments/assets/b0171857-99e7-4f57-a1d0-5a04e0c4f13a)
 
 
