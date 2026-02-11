@@ -1,4 +1,5 @@
-![banner](./banner.png)
+![github](https://github.com/user-attachments/assets/b0171857-99e7-4f57-a1d0-5a04e0c4f13a)
+
 
 
 # 👋 Hello there! I'm Asha Giri ♊
