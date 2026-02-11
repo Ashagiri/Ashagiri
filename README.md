@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 </p>
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;IT+Engineering+Student;Django+%26+React+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
