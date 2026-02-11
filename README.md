@@ -1,3 +1,6 @@
+![banner](./banner.png)
+
+
 # 👋 Hello there! I'm Asha Giri ♊
 
 
