@@ -16,18 +16,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=nightowl&area=true&hide_border=true" alt="Asha's Activity Graph" />
 </p>
 
-# 💡 **About Me**  
-> _"I don’t just write code; I craft clean, efficient solutions that solve real problems."_  
 
-I’m an enthusiastic **Full-Stack Developer** and IT engineering student who loves blending logic with creativity. Whether I’m building a reliable API with **Django** or designing intuitive UI with **React**, my mission is to turn complexity into simplicity—one project at a time.
-
-
-* 🔭 **Currently working on:** [Rojgar-nepal](https://github.com/Ashagiri/rojgar-nepal) & Scalable Management Systems.
-* ⚡ **Learning Path:** Advanced AWS Architectures & React.js Hooks.
-* 🤝 **Open to:** Collaborating on Open Source Python/Django projects.
-* 🧠 **Fun Fact:** I spend more time naming variables than writing the actual logic!
-
----
 
 ### 🛠 Technical Toolkit
 
