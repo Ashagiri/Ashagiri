@@ -26,7 +26,6 @@ I’m an enthusiastic **Full-Stack Developer** and IT engineering student who lo
 
 
 
-
 * 🔭 **Currently working on:** [Rojgar-nepal](https://github.com/Ashagiri/rojgar-nepal) & Scalable Management Systems.
 * ⚡ **Learning Path:** Advanced AWS Architectures & React.js Hooks.
 * 🤝 **Open to:** Collaborating on Open Source Python/Django projects.
