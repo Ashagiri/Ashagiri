@@ -1,7 +1,3 @@
-
-
-
-
 # 👋 Hello there! I'm Asha Giri ♊
 
 
@@ -10,12 +6,6 @@
   <img src="https://img.shields.io/badge/Status-Actively%20Building-44bb44?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Focus-AWS%20%26%20React-0078D4?style=for-the-badge&logo=react" />
   
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;IT+Engineering+Student;Django+%26+React+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
-</p>
-
-![github](https://github.com/user-attachments/assets/b0171857-99e7-4f57-a1d0-5a04e0c4f13a)
 
 
 <p align="center">
@@ -24,6 +14,13 @@
 </p>
 
 ## 🧠 About Me
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;IT+Engineering+Student;Django+%26+React+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+</p>
+
+![github](https://github.com/user-attachments/assets/b0171857-99e7-4f57-a1d0-5a04e0c4f13a)
+
 💡 I craft logical and user-friendly solutions with Python, Django, and React.  
 📌 Currently working on management systems & real-world projects.  
 🚀 Always learning advanced AWS architectures and modern React.js hooks.  
