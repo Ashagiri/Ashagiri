@@ -16,6 +16,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=nightowl&area=true&hide_border=true" alt="Asha's Activity Graph" />
 </p>
 
+## 🧠 About Me
+💡 I craft logical and user-friendly solutions with Python, Django, and React.  
+📌 Currently working on management systems & real-world projects.  
+🚀 Always learning advanced AWS architectures and modern React.js hooks.  
+🤝 Open to collaborating on Python, Django, and open-source projects.  
+👨‍🎓 IT Engineering student turning complexity into simplicity—one project at a time.
+
+---
 
 
 ### 🛠 Technical Toolkit
