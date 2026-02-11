@@ -6,7 +6,7 @@
   
 
 
-## 🧠 About Me
+
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;IT+Engineering+Student;Django+%26+React+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
@@ -14,6 +14,7 @@
 
 ![github](https://github.com/user-attachments/assets/b0171857-99e7-4f57-a1d0-5a04e0c4f13a)
 
+## 🧠 About Me
 <p align="center">
   <!-- You can add your activity graph below -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=nightowl&area=true&hide_border=true" alt="Asha's Activity Graph" />
