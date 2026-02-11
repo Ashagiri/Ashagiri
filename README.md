@@ -44,7 +44,7 @@
 🔹 **College Event Management System** – A Django-based system for managing events and registration.
 
 ---
-### 📊 My GitHub Stats
+
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=dark)
 
