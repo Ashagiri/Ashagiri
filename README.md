@@ -16,7 +16,7 @@
   <!-- You can add your activity graph below -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=nightowl&area=true&hide_border=true" alt="Asha's Activity Graph" />
 </p>
----
+
 
 💡 I craft logical and user-friendly solutions with Python, Django, and React.  
 📌 Currently working on management systems & real-world projects.  
