@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Asha Giri ♊
+# 👋 Hello! I'm Asha Giri ♊
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Actively%20Building-44bb44?style=for-the-badge&logo=github" />
