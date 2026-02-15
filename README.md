@@ -23,7 +23,7 @@
 🤝 Open to collaborating on Python, Django, and open-source projects.  
 👨‍🎓 IT Engineering student turning complexity into simplicity—one project at a time.
 
----
+
 
 
 ## 💻 Tech Stack
