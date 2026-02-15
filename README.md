@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Status-Actively%20Building-44bb44?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Focus-AWS%20%26%20React-0078D4?style=for-the-badge&logo=react" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;IT+Engineering+Student;Django+%26+React+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
