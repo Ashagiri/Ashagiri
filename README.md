@@ -24,7 +24,6 @@
 👨‍🎓 IT Engineering student turning complexity into simplicity—one project at a time.
 
 
-
 ## 💻 Tech Stack
 
 | Category | Skills & Tools |
