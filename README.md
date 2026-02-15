@@ -25,7 +25,6 @@
 
 
 
-
 ## 💻 Tech Stack
 
 | Category | Skills & Tools |
