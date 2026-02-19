@@ -56,7 +56,6 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ashagiri&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
-
 ---
 
 ### 🌐 Connect with Me
