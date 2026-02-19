@@ -17,7 +17,6 @@
 
 
 💡 I craft logical and user-friendly solutions with Python, Django, and React.  
-
 📌 Currently working on management systems & real-world projects.  
 🚀 Always learning advanced AWS architectures and modern React.js hooks.  
 🤝 Open to collaborating on Python, Django, and open-source projects.  
