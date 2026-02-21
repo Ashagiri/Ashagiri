@@ -69,5 +69,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashagiri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <br/>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines="Debugging my life one Python script at a time." alt="Typing SVG" />
+</p>
   <i>"Debugging my life one Python script at a time."</i>
 </p>
