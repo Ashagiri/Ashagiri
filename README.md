@@ -50,6 +50,7 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ashagiri&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
+
 ---
 
 ### 🌐 Connect with Me
@@ -62,6 +63,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 ---
 
 <p align="center">
