@@ -35,7 +35,6 @@
 ### ⭐ Featured
 🔹 **Hostel Management System** – A web app for easy hostel admin management.  
 🔹 **College Event Management System** – A Django-based system for managing events and registration.
-
 ---
 
 ## 📈 GitHub Stats
