@@ -35,6 +35,7 @@
 
 ---
 ## 🛠 Projects
+
 ### ⭐ Featured
 
 #### 🔹 Hostel Management System** – A web app for easy hostel admin management.  
