@@ -38,7 +38,8 @@
 
 ## 📜 Digital Badges
 
-[View My AWS Badge](YOUR_BADGE_LINK)
+<img width="601" height="601" alt="aws-academy-graduate-cloud-foundations-training-bad" src="https://github.com/user-attachments/assets/db73cea1-faa9-401c-9512-d6f97ee57eb7" />
+
 
 ## 🛠 Projects
 
