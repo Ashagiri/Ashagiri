@@ -20,6 +20,7 @@
 🤝 Open to collaborating on Python, Django, and open-source projects.  
 👨‍🎓 IT Engineering student turning complexity into simplicity—one project at a time.
 
+
 ## 💻 Tech Stack
 
 | Category | Skills & Tools |
@@ -30,6 +31,7 @@
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
 ---
+
 ## 🛠 Projects
 
 ### ⭐ Featured
