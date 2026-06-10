@@ -50,18 +50,7 @@
 ---
 
 ## 📈 GitHub Stats
-[](https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&theme=tokyonight" alt="Asha's Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Ashagiri&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Ashagiri&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
----
 
 ### 🌐 Connect with Me
 
