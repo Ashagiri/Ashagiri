@@ -10,12 +10,9 @@
 
 
 ## 🧠 About Me
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=tokyo-night&area=true&hide_border=true"
-    alt="Asha's Activity Graph"
-  />
-</p>
+## 📊 Contribution Graph
+
+[![Asha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=github&hide_border=true&area=true)](https://github.com/Ashagiri)
 
 💡 I craft logical and user-friendly solutions with Python, Django, and React.  
 📌 Currently working on management systems & real-world projects.  
