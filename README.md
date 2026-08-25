@@ -12,7 +12,7 @@
 ## 🧠 About Me
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=nightowl&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=tokyo-night&area=true&hide_border=true"
     alt="Asha's Activity Graph"
   />
 </p>
