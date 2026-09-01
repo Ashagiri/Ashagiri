@@ -1,162 +1,191 @@
 # 👋 Hi, I'm Asha Giri
 
-### 💻 IT Engineering Student | Python & Django Developer
+### 💻 IT Engineering Student | Python & Django Developer | Web Developer
 
-I'm an **IT Engineering student at Nepal College of Information Technology (NCIT)** passionate about building practical software solutions and continuously improving my development skills.
+I'm an **IT Engineering student at Nepal College of Information Technology (NCIT)** passionate about building practical software solutions using **Python, Django, Web Technologies, Cloud Computing, AI, and IoT**.
 
-I enjoy working with **Python, Django, JavaScript, HTML, CSS, and Bootstrap**, and I'm currently exploring **AI, Blockchain, Cloud Computing, and modern web technologies**.
+I enjoy learning by building real-world projects and continuously improving my problem-solving and development skills.
 
----
-
-## 🚀 About Me
-
-* 🎓 IT Engineering Student at **NCIT**
-* 💻 Interested in **Web Development & Software Engineering**
-* 🐍 Learning and building with **Python & Django**
-* ☁️ Exploring **Cloud Computing & AWS**
-* 🤖 Interested in **Artificial Intelligence**
-* 🔗 Exploring **Blockchain Technology**
-* 🌱 Always learning and building new projects
-* 🎯 Goal: Become a skilled and professional software developer
+🚀 **Currently seeking Software Development / Python / Django Internship opportunities.**
 
 ---
-## 📈 GitHub Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github.pumbas.net/api/contributions/Ashagiri?colour=000000&bgColour=ffffff&dotColour=000000&days=365"
-    alt="Ashagiri GitHub Contribution Activity"
-    width="100%"
-    height="100%"
-  />
-</p>
+## 👩‍💻 About Me
+
+* 🎓 IT Engineering Student at **Nepal College of Information Technology (NCIT)**
+* 🐍 Focused on **Python & Django Development**
+* 🌐 Interested in **Web & Full-Stack Development**
+* ☁️ Exploring **AWS & Cloud Computing**
+* 🤖 Exploring **AI & Intelligent Systems**
+* 📡 Interested in **IoT & Smart Systems**
+* 🔐 Interested in building secure and reliable applications
+* 📚 Learning through practical projects and hands-on development
+* 💼 **Open to Internship Opportunities**
+
+---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Frameworks & Tools
+### ⚙️ Frameworks & Libraries
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### Database & Cloud
+### 🗄️ Databases
 
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### ☁️ Cloud & Development Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🏥 Hos-Lab-Era
 
 **Hospital Laboratory Management System**
 
-A secure digital laboratory management platform designed to simplify hospital laboratory operations.
+A web-based laboratory management platform designed to digitize and streamline hospital laboratory operations.
 
-**Key Features:**
+**Highlights:**
 
-* 🔐 Secure authentication & role-based access
-* 👨‍⚕️ Patient & laboratory management
-* 📧 Email notifications
-* 💳 Online payment system
+* 🔐 Authentication & role-based access
+* 👤 Patient management
+* 🧪 Laboratory test management
+* 📧 Email notification system
+* 💳 Payment system
 * 📄 Digital PDF report generation
 * 🤖 AI-assisted report explanation
-* 🔗 Blockchain-based record integrity
-* 📊 Laboratory analytics
+* 🔗 Blockchain-based record integrity & verification
 
-**Tech:** Python • Django • SQLite • JavaScript • Bootstrap
-
----
-
-## 📊 GitHub Analytics
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&hide_border=true" alt="Asha Giri GitHub Streak">
-</p>
+**Tech:** Python • Django • SQLite/PostgreSQL • HTML • CSS • Bootstrap • JavaScript
 
 ---
 
+### 🎓 College Event Management System
+
+A Django-based application for managing college events, registrations, schedules, and related activities.
+
+**Tech:** Python • Django • HTML • CSS • Bootstrap • JavaScript
+
+---
+
+### 🏠 Hostel Management System
+
+A web-based hostel management system designed to centralize student registration, room allocation, fee tracking, attendance, and reporting.
+
+**Tech:** PHP • JavaScript • HTML • CSS
+
+---
 
 
-## 🏆 Achievements & Certifications
+### 🌦️ IoT Weather Dashboard
 
-* 🎓 **AWS Academy Graduate – Cloud Foundations**
+An IoT-based system for collecting, storing, and visualizing environmental sensor data using a cloud-based architecture.
+
+**Tech:** Python • FastAPI • TinyDB • AWS EC2 • IoT Sensors
+
+---
+
+## 📜 Certifications & Training
+
+* ☁️ **AWS Academy Graduate — Cloud Foundations**
+* ☁️ **AWS Academy Data Engineering**
+* 🐍 **30 Hours Django Training Program — NCIT × Next Skills Academy**
 * 🐍 **Python Training Certificate**
-* 🌐 **30 Hours Django Training – NCIT × Next Skills Academy**
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
 ```text
-Python
-   ↓
-Django
-   ↓
-Web Development
-   ↓
+Python & Django
+       ↓
+REST APIs & Databases
+       ↓
 Cloud & AWS
-   ↓
-AI & Machine Learning
-   ↓
-Blockchain
+       ↓
+AI & Intelligent Systems
+       ↓
+Production-Ready Applications
 ```
+
+My current focus is improving my ability to design, develop, test, document, and deploy practical software applications.
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Career Goal
 
-* 🚀 Build more real-world applications
-* 💻 Improve Django & backend development skills
-* ☁️ Strengthen AWS & cloud knowledge
-* 🤖 Explore AI integration in web applications
-* 🔗 Learn practical blockchain development
-* 🌐 Build a strong professional developer portfolio
-* 💼 Prepare for software development opportunities
+I aim to grow as a **professional software developer** by gaining real-world industry experience, contributing to meaningful projects, learning from experienced developers, and continuously improving my technical and problem-solving abilities.
+
+### Interested in:
+
+* 💻 Software Development Internships
+* 🐍 Python Developer Internships
+* 🌐 Django / Backend Developer Internships
+* ⚙️ Full-Stack Development Internships
+* ☁️ Cloud / Software Engineering Internships
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&hide_border=true" height="170">
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Ashagiri">
-    <img src="https://img.shields.io/badge/GitHub-Ashagiri-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://ashagiri.com.np/">
-    <img src="https://img.shields.io/badge/Website-ashagiri.com.np-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/asha-giri-b081273a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Asha%20Giri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:asha.231410@ncit.edu.np">
-    <img src="https://img.shields.io/badge/Email-asha.231410%40ncit.edu.np-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+
+<a href="mailto:asha.231410@ncit.edu.np">
+<img src="https://img.shields.io/badge/Email-asha.231410%40ncit.edu.np-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/asha-giri-b081273a5/">
+<img src="https://img.shields.io/badge/LinkedIn-Asha%20Giri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://ashagiri.com.np/">
+<img src="https://img.shields.io/badge/Portfolio-ashagiri.com.np-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://github.com/Ashagiri">
+<img src="https://img.shields.io/badge/GitHub-Ashagiri-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
+
 ---
 
 <p align="center">
-  <b>💡 Learn • Build • Improve • Repeat 🚀</b>
+
+### 💼 Open to Internship Opportunities
+
+**Python • Django • Backend • Full-Stack • Software Development**
+
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+<i>“Learning by building, improving through challenges, and growing one project at a time.”</i>
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
 </p>
