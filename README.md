@@ -144,8 +144,13 @@ Blockchain
   <a href="https://ashagiri.com.np/">
     <img src="https://img.shields.io/badge/Website-ashagiri.com.np-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/asha-giri-b081273a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Asha%20Giri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:asha.231410@ncit.edu.np">
+    <img src="https://img.shields.io/badge/Email-asha.231410%40ncit.edu.np-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
-
 ---
 
 <p align="center">
