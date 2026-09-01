@@ -141,8 +141,8 @@ Blockchain
   <a href="https://github.com/Ashagiri">
     <img src="https://img.shields.io/badge/GitHub-Ashagiri-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.youtube.com/@ashagiri15665">
-    <img src="https://img.shields.io/badge/YouTube-Asha%20Giri-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <a href="https://ashagiri.com.np/">
+    <img src="https://img.shields.io/badge/Website-ashagiri.com.np-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
 
