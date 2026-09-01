@@ -1,72 +1,165 @@
-# 👋 Hello! I'm Asha Giri ♊
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-44bb44?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-AWS%20%26%20React-0078D4?style=for-the-badge&logo=react" />
+# 👋 Hi, I'm Asha Giri
+
+### 💻 IT Engineering Student | Python & Django Developer
+
+I'm an **IT Engineering student at Nepal College of Information Technology (NCIT)** passionate about building practical software solutions and continuously improving my development skills.
+
+I enjoy working with **Python, Django, JavaScript, HTML, CSS, and Bootstrap**, and I'm currently exploring **AI, Blockchain, Cloud Computing, and modern web technologies**.
+
+---
+
+## 🚀 About Me
+
+* 🎓 IT Engineering Student at **NCIT**
+* 💻 Interested in **Web Development & Software Engineering**
+* 🐍 Learning and building with **Python & Django**
+* ☁️ Exploring **Cloud Computing & AWS**
+* 🤖 Interested in **Artificial Intelligence**
+* 🔗 Exploring **Blockchain Technology**
+* 🌱 Always learning and building new projects
+* 🎯 Goal: Become a skilled and professional software developer
+
+---
+## 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github.pumbas.net/api/contributions/Ashagiri?colour=000000&bgColour=ffffff&dotColour=000000&days=365"
+    alt="Ashagiri GitHub Contribution Activity"
+    width="100%"
+    height="100%"
+  />
+</p>
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+### Frameworks & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+### Database & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### 🏥 Hos-Lab-Era
+
+**Hospital Laboratory Management System**
+
+A secure digital laboratory management platform designed to simplify hospital laboratory operations.
+
+**Key Features:**
+
+* 🔐 Secure authentication & role-based access
+* 👨‍⚕️ Patient & laboratory management
+* 📧 Email notifications
+* 💳 Online payment system
+* 📄 Digital PDF report generation
+* 🤖 AI-assisted report explanation
+* 🔗 Blockchain-based record integrity
+* 📊 Laboratory analytics
+
+**Tech:** Python • Django • SQLite • JavaScript • Bootstrap
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&hide_border=true&rank_icon=github" alt="Asha Giri GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;IT+Engineering+Student;Django+%26+React+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&hide_border=true" alt="Asha Giri GitHub Streak">
 </p>
 
-
-
-## 🧠 About Me
-
-
-💡 I craft logical and user-friendly solutions with Python, Django, and React.  
-📌 Currently working on management systems & real-world projects.  
-🚀 Always learning advanced AWS architectures and modern React.js hooks.  
-🤝 Open to collaborating on Python, Django, and open-source projects.  
-👨‍🎓 IT Engineering student turning complexity into simplicity—one project at a time.
-
-
-
-## 💻 Tech Stack
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **Frameworks** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
-| **Cloud/DB** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-
----
-## 🏆 Certifications
-
-- AWS Academy Data Engineering
-- AWS Academy Cloud Foundations
-
-## 📜 Digital Badges
-
-<img width="300" height="300" alt="aws-academy-graduate-cloud-foundations-training-bad" src="https://github.com/user-attachments/assets/db73cea1-faa9-401c-9512-d6f97ee57eb7" />
-
-
-## 🛠 Projects
-
-### ⭐ Featured
-
-#### 🔹 Hostel Management System – A web app for easy hostel admin management.  
-#### 🔹 College Event Management System – A Django-based system for managing events and registration.
 ---
 
-## 📈 GitHub Stats
+## 📈 Contribution Activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=github-compact&hide_border=true" alt="Asha Giri GitHub Activity Graph">
+</p>
 
-### 🌐 Connect with Me
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+## 🏆 Achievements & Certifications
+
+* 🎓 **AWS Academy Graduate – Cloud Foundations**
+* 🐍 **Python Training Certificate**
+* 🌐 **30 Hours Django Training – NCIT × Next Skills Academy**
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python
+   ↓
+Django
+   ↓
+Web Development
+   ↓
+Cloud & AWS
+   ↓
+AI & Machine Learning
+   ↓
+Blockchain
+```
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build more real-world applications
+* 💻 Improve Django & backend development skills
+* ☁️ Strengthen AWS & cloud knowledge
+* 🤖 Explore AI integration in web applications
+* 🔗 Learn practical blockchain development
+* 🌐 Build a strong professional developer portfolio
+* 💼 Prepare for software development opportunities
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Ashagiri">
+    <img src="https://img.shields.io/badge/GitHub-Ashagiri-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:asha.231410@ncit.edu.np">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.youtube.com/@ashagiri15665">
+    <img src="https://img.shields.io/badge/YouTube-Asha%20Giri-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashagiri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br/>
-  <i>"Debugging my life one Python script at a time."</i>
+  <b>💡 Learn • Build • Improve • Repeat 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
