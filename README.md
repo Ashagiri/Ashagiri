@@ -113,9 +113,6 @@ A web-based system developed to manage hostel-related operations and student inf
 
 ---
 
-### 💰 Expense Tracker
-
-A Django-based application for recording, managing, and monitoring personal expenses.
 
 **Built With:**
 `Python` `Django` `HTML` `CSS` `Bootstrap` `JavaScript`
@@ -204,11 +201,6 @@ My goal is to become a skilled **software developer** by gaining real-world indu
 <img src="https://img.shields.io/badge/GitHub-Ashagiri-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.youtube.com/@ashagiri15665">
-<img src="https://img.shields.io/badge/YouTube-Asha%20Giri-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-</p>
 
 ---
 
