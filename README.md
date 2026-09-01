@@ -87,9 +87,7 @@ A secure digital laboratory management platform designed to simplify hospital la
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&hide_border=true&rank_icon=github" alt="Asha Giri GitHub Stats">
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashagiri&hide_border=true" alt="Asha Giri GitHub Streak">
@@ -97,13 +95,7 @@ A secure digital laboratory management platform designed to simplify hospital la
 
 ---
 
-## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashagiri&theme=github-compact&hide_border=true" alt="Asha Giri GitHub Activity Graph">
-</p>
-
----
 
 ## 🏆 Achievements & Certifications
 
