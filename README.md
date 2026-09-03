@@ -160,15 +160,7 @@ My goal is to grow as a **Software / Backend Developer** by gaining real-world i
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashagiri&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashagiri&layout=compact&hide_border=true" height="170"/>
-
-</p>
 
 ---
 
