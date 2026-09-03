@@ -8,6 +8,7 @@ My primary focus is **Python and Django development**, with hands-on experience 
 
 🚀 **Open to Software Development, Python, and Django internship opportunities.**
 
+
 ---
 
 ## 👩‍💻 About Me
