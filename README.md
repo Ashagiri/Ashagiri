@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Asha Giri
 
 
+
 ### 💻 IT Engineering Student | Python & Django Developer | Web Development
 
 I'm an **IT Engineering student at Nepal College of Information Technology (NCIT)** passionate about building practical and user-focused software solutions.
